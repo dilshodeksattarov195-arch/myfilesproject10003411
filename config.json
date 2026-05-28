@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheecrypt",
+        "uuid": 4550274,
+        "checksum": "9nsk9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
